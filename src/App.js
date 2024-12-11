@@ -12,7 +12,9 @@ function App() {
           <p className="subtitle">"They Don’t Love You Like I Love You"</p>
           <p className="description">The Viral Maps Dance Token on HyperLiquid</p>
           <div className="buttons">
-            <button className="btn">Buy</button>
+            <a href="http://t.me/HypurrFunBot?start=launch_2079" target="_blank" rel="noopener noreferrer">
+              <button className="btn">Buy</button>
+            </a>
           </div>
           
         </div>
